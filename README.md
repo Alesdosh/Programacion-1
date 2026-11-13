@@ -1,4 +1,7 @@
-# README DEL PROYECTO BLACKJACK
+# README DE PROYECTOS
 
-Repositorio publico para el proyecto de juego blackjack desarrollado en python con tkinter
+Repositorio publico para los proyectos que vayan saliendo
+
+- BlackJack - programa juego de blackjack en python y tkinter
+- Programa - programa de prueba
 
